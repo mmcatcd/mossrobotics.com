@@ -3,7 +3,7 @@
 ## What is this?
 
 The home for a robot made by Kevin McAndrew and Nico Amaya
-over at mossrobotics.com.
+over at [mossrobotics.com](https://mossrobotics.com).
 
 Kevin wrote the source for the site so all complaints about 
 the state of his HTML markup and God knows what else he has 
